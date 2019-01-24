@@ -1,2 +1,2 @@
 # astromatic
-The Astromatic toolbox: Source Extractor, PsfEx, Scamp, Swarp
+The Astromatic toolbox: Source Extractor, PsfEx, and Scamp
